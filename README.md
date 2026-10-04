@@ -13,4 +13,5 @@ High school student (Class of 2029), learning Python and building small tools.
 - X(Twitter):[@chenchen134163](https://x.com/chenchen134163)
 - TikTok:[@miistyy0001](https://www.tiktok.com/@miistyy0001)
 - Telegram:[@zcheggg](https://t.me/zcheggg)
+- Instagram:[@zcheggg](https://www.instagram.com/zcheggg)
 - 欢迎通过 [GitHub Issues](https://github.com/zcheggg-jpg/deepseek-cordis/issues) 交流 / Feel free to reach out via [GitHub Issues](https://github.com/zcheggg-jpg/deepseek-cordis/issues)
