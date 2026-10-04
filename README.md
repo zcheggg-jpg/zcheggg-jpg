@@ -5,6 +5,7 @@ High school student (Class of 2029), learning Python and building small tools.
 
 ## 项目 / Projects
 
+- [vocab-trainer](https://github.com/zcheggg-jpg/vocab-trainer) — 命令行背单词神器:按艾宾浩斯遗忘曲线每天安排复习 / A CLI vocabulary trainer that schedules daily reviews with spaced repetition
 - [deepseek-cordis](https://github.com/zcheggg-jpg/deepseek-cordis) — DeepSeek 对话界面实时显示账户余额与本次对话花费的插件 / A DSH plugin that shows DeepSeek balance and per-conversation cost in real time
 
 ## 联系我 / Contact
